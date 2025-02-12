@@ -39,7 +39,7 @@
     "eslint-plugin-n": "^15.4.0",
     "eslint": "^8.54.0",
     "ts-node": "^10.8.0",
-    "esbuild": "^0.20.0",
+    "esbuild": "^0.25.0",
     "@types/mime-types": "~2.1.1",
     "@types/node": "~20.11.16",
     "@typescript-eslint/parser": "^6.11.0",
